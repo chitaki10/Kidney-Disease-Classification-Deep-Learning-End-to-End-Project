@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: cnnClassifier
+Version: 0.0.0
+Summary: a small python package for cnn app
+Author: chitaki10
+Author-email: chitakin876@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
