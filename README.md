@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project is a **complete end-to-end deep learning system** for classifying kidney CT/ultrasound images into:
 
