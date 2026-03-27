@@ -3,7 +3,7 @@
 <div align="center">
 
 ## 🏥 AI-Powered Kidney Disease Detection  
-### Production-Ready CNN + MLOps Pipeline 🚀  
+### Production-Ready CNN + MLOps Pipeline 
 
 </div>
 
